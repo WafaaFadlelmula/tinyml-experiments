@@ -213,5 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Espressif** for ESP32 platform
 - **Arduino Community** for libraries and support
 - **PlatformIO** for development environment
+- "TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers" for foundational concepts and guidance
 
 ---

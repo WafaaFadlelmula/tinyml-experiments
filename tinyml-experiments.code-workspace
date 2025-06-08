@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tinyml-experiments",
+			"path": "."
+		},
+		{
+			"name": "tes",
+			"path": "../../../Documents/Documents/PlatformIO/Projects/tes"
+		}
+	],
+	"settings": {}
+}
