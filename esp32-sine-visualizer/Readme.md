@@ -168,7 +168,18 @@ Perfect Sine Wave Visualization:
 
 ## 🎥 Demo Video
 
-[Add your LCD video here]
+<div align="center">
+  <video width="80%" controls>
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<p align="center">
+  <em>ESP32 TensorFlow Lite Sine Wave Visualizer in Action</em>
+</p>
+
+*Click the link above to see the real-time sine wave visualization on the 16x2 LCD display.*
 
 *The video shows the real-time sine wave visualization on the 16x2 LCD display, demonstrating how the TensorFlow Lite model predictions create a smooth sine wave pattern.*
 
