@@ -166,15 +166,11 @@ Perfect Sine Wave Visualization:
 - **`drawFullSineWave()`**: Renders complete wave pattern
 - **`showWaveStats()`**: Displays accuracy metrics
 
-## 🎥 Demo Video
+## 🎥 Demo 
+![ESP32 Sine Wave Visualization](demo.gif)
 
-<video width="100%" controls>
-  <source src="video.mp4" type="video/mp4">
-  <source src="./video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-*The video shows the real-time sine wave visualization on the 16x2 LCD display, demonstrating how the TensorFlow Lite model predictions create a smooth sine wave pattern.*
+*The demo shows the real-time sine wave visualization on the 16x2 LCD display, demonstrating how the TensorFlow Lite model predictions create a smooth sine wave pattern.*
 
 ## 🔬 Technical Implementation
 
